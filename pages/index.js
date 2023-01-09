@@ -4,22 +4,23 @@ import { useEffect } from 'react';
 
 
 export default function Home() {
-
-  useEffect(() =>
-  {        
-      document.body.classList.add("bg-slate-50");
-  });
   return (
-    <div className="prose prose-xl prose-stone min-h-screen mx-auto antialiased font-sans text-2xl max-w-2xl">
+    <div className="prose prose-xl prose-stone min-h-screen mx-auto antialiased font-sans text-2xl">
       <Head>
         <title>Barter a Button</title>
         <meta name="description" content="Barter a Button" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="mt-4 px-8">
-        <h1 className="text-center strong text-4xl mb-10">
+      <header className="w-screen ">
+      <h1 className="text-center strong text-4xl my-10 tracking-widest">
           Barter a Button
         </h1>
+        <div className="bg-button mb-10 w-screen border-button-dark border-y-2" >
+        <img src="/button.jpeg" className="object-cover h-72 m-auto"/>
+        </div>
+      </header>
+      <main className="mt-4 px-8 max-w-2xl mx-auto">
+        
         <p>On August 31st 2022 I embarked upon quite a strange yet interesting adventure.</p>
 
         <p>I decided to offer a blue plastic button I had no use for on a local zero waste Facebook group. I was asking if anyone would like to offer me something they no longer needed in return for the button which they could make some use of.</p>
