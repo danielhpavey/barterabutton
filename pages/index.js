@@ -17,7 +17,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="mt-4 px-8">
-        <h1 className="text-center strong text-4xl mb-4">
+        <h1 className="text-center strong text-4xl mb-10">
           Barter a Button
         </h1>
         <p>On August 31st 2022 I embarked upon quite a strange yet interesting adventure.</p>
