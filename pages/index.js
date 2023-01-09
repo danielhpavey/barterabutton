@@ -38,12 +38,16 @@ export default function Home() {
         <p>So onto the painting – as I’m hoping you are reading this as you’ve heard about what I’m doing and might want to make me an offer. The painting is an original unique image of Exeter Cathedral on canvas. It’s 80x60cm large and is embossed with gold leaf.</p>
       </main>
 
-      <footer className="flex flex-row justify-between flex-wrap gap-4 px-8 my-4 mb-12">
+    <div className="border-button-dark border-y-2 mb-12 my-4">
+      <footer className="flex flex-row justify-between flex-wrap gap-4 px-8 my-4  max-w-2xl mx-auto ">
           <div>
+            <a href="https://instagram.com/barterabutton">My Instagram</a>
           </div>
           <div>
+            <a href="mailto:sharon@barterabutton.com">sharon@barterabutton.com</a>
           </div>
       </footer>
+    </div>
     </div>
   )
 }
