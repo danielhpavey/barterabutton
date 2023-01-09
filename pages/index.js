@@ -8,7 +8,7 @@ export default function Home() {
     <div className="prose prose-xl prose-stone min-h-screen mx-auto antialiased font-sans text-2xl">
       <Head>
         <title>Barter a Button</title>
-        <meta name="description" content="Barter a Button" />
+        <meta name="description" content="Follow my journey swapping from a button up to a house! Devon UK. Currently swapping a commissioned painting." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <header className="w-screen ">
