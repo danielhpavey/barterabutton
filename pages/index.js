@@ -42,7 +42,7 @@ export default function Home() {
 
 <p>A nature lovers slice of heaven in Devon with TWO hot tubs, woodburning stoves, hammocks, firepits and more! There is accommodation for up to 14 people in total at Yonder Meadow. Perfect for a large family or two families together or even a group of friends.</p>
 
-<p>For more details see Lucy's Airbnb page: <a href="https://www.airbnb.co.uk/rooms/25256472">www.airbnb.co.uk/rooms/25256472</a></p>
+<p>For more details see Lucy&apos;s Airbnb page: <a href="https://www.airbnb.co.uk/rooms/25256472">www.airbnb.co.uk/rooms/25256472</a></p>
 
 <img src="/sharon-and-lucy.png" alt="Barter a Button Sharon and Lucy" className="my-8 mx-auto block"/>
 
