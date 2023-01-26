@@ -57,7 +57,7 @@ export default function Home() {
 
       </main>
 
-    <div className="border-button-dark border-y-2 mb-12 my-4">
+    <div className="border-button-dark border-y-2 mb-12 my-4 mt-20">
       <footer className="flex flex-row justify-between flex-wrap gap-4 px-8 my-4  max-w-2xl mx-auto ">
           <div>
             <a href="https://instagram.com/barterabutton">Instagram</a>
