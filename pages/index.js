@@ -38,7 +38,15 @@ export default function Home() {
 <img src="/anita-min.png" alt="Barter a Button Anita Painting" className="my-8 mx-auto block"/>
 
 <p>Item number 9</p>
-<p>And this is where we are up to now. I do have item number 9 lined up and I&#39;m making the swap very soon. The best place to keep up to date is Instagram <a href="https://www.instagram.com/barterabutton">instagram.com/barterabutton</a></p>
+<p>And this is where we are up to now. Lucy is now the proud owner of the painting and for this she swapped me a holiday.</p>
+
+<p>A nature lovers slice of heaven in Devon with TWO hot tubs, woodburning stoves, hammocks, firepits and more! There is accommodation for up to 14 people in total at Yonder Meadow. Perfect for a large family or two families together or even a group of friends.</p>
+
+<p>For more details see Lucy's Airbnb page: <a href="https://www.airbnb.co.uk/rooms/25256472">www.airbnb.co.uk/rooms/25256472</a></p>
+
+<img src="/sharon-and-lucy.png" alt="Barter a Button Sharon and Lucy" className="my-8 mx-auto block"/>
+
+
 <p>I should explain – this is not my idea. This concept is called the Red Paperclip Challenge which was started by Kyle Macdonald back in 2006 in Canada. Kyle took just over a year and swapped items (from a red paperclip) all the way up to house. This was replicated last year by American Demi Skipper who also reached a house. </p>
 <p>I know some people have tried it here in the UK but I don’t think anyone has succeeded in reaching a house yet – but that is my dream !</p>
 <p>We are in the situation like many families in the UK where saving for an enormous deposit for our own house is virtually impossible – whilst raising a family and paying rent. </p>

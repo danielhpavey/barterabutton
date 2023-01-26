@@ -17,3 +17,11 @@ body {
 p {
   margin-bottom: 0.7em;
 }
+
+a {
+  text-decoration: underline;
+}
+
+a:hover {
+  background:#dbffff
+}
