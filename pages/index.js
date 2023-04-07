@@ -1,6 +1,8 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import { useEffect } from 'react';
+import { useEffect } from 'react'
+import Link from 'next/link'
+
 
 
 export default function Home() {
@@ -15,7 +17,10 @@ export default function Home() {
       <h1 className="text-center strong text-4xl my-10 tracking-widest">
           Barter a Button
         </h1>
-        <nav className="flex flex-row justify-center gap-x-8 my-10"><a href="/" className="no-underline">Home</a><a href="about" className="no-underline">About</a></nav>
+        <nav className="flex flex-row justify-center gap-x-8 my-10">
+        <Link className="no-underline" href="/">Home</Link>
+          <a href="about" className="no-underline">About</a>
+        </nav>
         <div className="bg-button mb-10 w-screen border-button-dark border-y-2" >
         <img src="/button.jpeg" className="object-cover h-72 m-auto"/>
         </div>
