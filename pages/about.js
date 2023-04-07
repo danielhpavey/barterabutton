@@ -41,11 +41,11 @@ export default function Home() {
 <p>An artist in Totnes called Anita Nowinska was interested in the photo shoot as she needed her marketing materials updating on her website. We made the swap live on BBC Radio Devon which was pretty nerve-wracking but exciting. Anita offered a large commissioned painting of whatever the next person would like her to paint for them. We then went on to be featured on local West Country TV on BBC Spotlight.</p>
 <img src="/anita-min.png" alt="Barter a Button Anita Painting" className="my-8 mx-auto block"/>
 
-<p>Lucy made me the best offer for Anita's painting. In exchange for the painting, Lucy gave me a fabulous holiday for at least 8 people at Yonder Meadow near Exeter.</p>
+<p>Lucy made me the best offer for Anita&apos;s painting. In exchange for the painting, Lucy gave me a fabulous holiday for at least 8 people at Yonder Meadow near Exeter.</p>
 
 <img src="/sharon-and-lucy.png" alt="Barter a Button Sharon and Lucy" className="my-8 mx-auto block"/>
 
-<p>And this takes us to now - I'm on item number 10, an electric bike which is featured here on the home page.</p>
+<p>And this takes us to now - I&apos;m on item number 10, an electric bike which is featured here on the home page.</p>
 
 <p>I should explain – this is not my idea. This concept is called the Red Paperclip Challenge which was started by Kyle Macdonald back in 2006 in Canada. Kyle took just over a year and swapped items (from a red paperclip) all the way up to house. This was replicated last year by American Demi Skipper who also reached a house. </p>
 <p>I know some people have tried it here in the UK but I don’t think anyone has succeeded in reaching a house yet – but that is my dream !</p>

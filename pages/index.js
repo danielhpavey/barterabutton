@@ -36,7 +36,7 @@ After a lot of work behind the scenes, I am absolutely over the moon to announce
 The holiday at Yonder Meadow in Devon has been swapped with Chris from Fully Charged Cornwall for a BRAND NEW electric bike !!!!!!!!!
 </p>
 <p>
-Some of you will know we are a cycle-mad family ourselves and I always dreamed of an electric bike being one of my swaps on this cash free journey from a button to a house. I'm so happy to achieve this. More about me here. 
+Some of you will know we are a cycle-mad family ourselves and I always dreamed of an electric bike being one of my swaps on this cash free journey from a button to a house. I&apos;m so happy to achieve this. More about me here. 
 </p>
 <p>
 The bike is a Moustache Samedi 28.1 Open 2022 electric bicycle with Bosch motor - all boxed up & ready to ship to you wherever you are! 
