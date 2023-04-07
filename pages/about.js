@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
         <nav className="flex flex-row justify-center gap-x-8 my-10">
         <Link className="no-underline" href="/">Home</Link>
-          <a href="about" className="no-underline">About</a>
+          <Link href="about" className="no-underline">About</Link>
         </nav>        <div className="bg-button mb-10 w-screen border-button-dark border-y-2" >
         <img src="/button.jpeg" className="object-cover h-72 m-auto"/>
         </div>

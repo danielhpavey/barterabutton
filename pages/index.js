@@ -19,7 +19,7 @@ export default function Home() {
         </h1>
         <nav className="flex flex-row justify-center gap-x-8 my-10">
         <Link className="no-underline" href="/">Home</Link>
-          <a href="about" className="no-underline">About</a>
+          <Link href="about" className="no-underline">About</Link>
         </nav>
         <div className="bg-button mb-10 w-screen border-button-dark border-y-2" >
         <img src="/button.jpeg" className="object-cover h-72 m-auto"/>
@@ -36,7 +36,7 @@ After a lot of work behind the scenes, I am absolutely over the moon to announce
 The holiday at Yonder Meadow in Devon has been swapped with Chris from Fully Charged Cornwall for a BRAND NEW electric bike !!!!!!!!!
 </p>
 <p>
-Some of you will know we are a cycle-mad family ourselves and I always dreamed of an electric bike being one of my swaps on this cash free journey from a button to a house. I&apos;m so happy to achieve this. <a href="/about">More about me here</a>. 
+Some of you will know we are a cycle-mad family ourselves and I always dreamed of an electric bike being one of my swaps on this cash free journey from a button to a house. I&apos;m so happy to achieve this. <Link href="/about">More about me here</Link>. 
 </p>
 <p>
 The bike is a Moustache Samedi 28.1 Open 2022 electric bicycle with Bosch motor - all boxed up & ready to ship to you wherever you are! 
@@ -47,7 +47,10 @@ More details about the bike here <a href="https://www.fullycharged.com/moustache
 <p>
 Contact me and make me a cash free offer today.
 </p>
-<p><a href="/about">Click here to read the whole story so far.</a></p>
+<p><Link href="/about">Click here to read the whole story so far.</Link></p>
+
+<img src="/flower-cropped.jpeg" alt="Barter a Button Sharon at Fully Charged in Cornwall" className="my-8 mx-auto block"/>
+
       </main>
 
     <div className="border-button-dark border-y-2 mb-12 my-4 mt-20 ">
