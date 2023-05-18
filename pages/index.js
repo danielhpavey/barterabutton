@@ -30,7 +30,7 @@ export default function Home() {
       <img src="/sharon-fully-charged-cornwall.jpg" alt="Barter a Button Sharon at Fully Charged in Cornwall" className="my-8 mx-auto block"/>
 
 <p>        
-After a lot of work behind the scenes, I am absolutely over the moon to announce the latest swap happened on 7th April 2023. 
+After a lot of work behind the scenes, I am absolutely over the moon to announce the latest swap. 
 </p>
 <p>
 The holiday at Yonder Meadow in Devon has been swapped with Chris from Fully Charged Cornwall for a BRAND NEW electric bike !!!!!!!!!
